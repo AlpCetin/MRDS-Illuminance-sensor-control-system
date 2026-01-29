@@ -1,2 +1,2 @@
 # MRDS-Illuminance-sensor-control-system
-We desgined a control system for an illuminance sensor.
+Entwurf eines Steuerungssystems zur Regelung der Beleuchtungsstärke
